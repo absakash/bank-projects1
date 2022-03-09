@@ -1,0 +1,54 @@
+body{
+   padding: 100px;
+}
+
+#loginInfo{
+    margin-top: 50px;
+    
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+#tranjection{
+
+    display: none;
+    
+    
+}
+
+.deposit{
+    background-color: orange;
+}
+
+.withdraw{
+    background-color: greenyellow;
+}
+.balance{
+    background-color: blueviolet;
+}
+
+.status{
+    margin: 0 20px;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
+#lenden{
+    margin-top: 100px;
+}
+
+#depositAmount{
+    padding: 20px;
+    color: white;
+    background-color: gray;
+    border-radius: 15px;
+}
+
+#withdrawAmount{
+    padding: 20px;
+    color: white;
+    background-color: gray;
+    border-radius: 15px;
+
+}
